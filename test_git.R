@@ -62,3 +62,5 @@ for (i in 1:20){
   assign(paste0("cb",i+1990),coef)
 }
 >>>>>>> XD-test
+
+#### submission
